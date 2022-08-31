@@ -1,0 +1,17 @@
+{
+  "name": "pdf-stamper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "pdf-stamper": "./index.js"
+  },
+  "author": "Benedikt Groß",
+  "dependencies": {
+    "minimist": "^1.2.6",
+    "pdf-lib": "^1.17.1"
+  }
+}
